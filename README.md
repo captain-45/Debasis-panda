@@ -46,16 +46,16 @@
 
 ### 📫 Connect with me
 
-[![LinkedIn](www.linkedin.com/in/debasis-panda-75b09b244)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/debasispanda13)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pandadebasis510@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debasis-panda-75b09b244)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/unpolished_dreamer)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pandadebasis036@gmail.com)
 
 ---
 
 ### 📊 GitHub Stats
 
-![Debasis's GitHub stats](https://github-readme-stats.vercel.app/api?username=debasispanda13&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debasispanda13&layout=compact&theme=radical)
+![Debasis's GitHub stats](https://github-readme-stats.vercel.app/api?username=captain45&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=captain45&layout=compact&theme=radical)
 
 ---
 
