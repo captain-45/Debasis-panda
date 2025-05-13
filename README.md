@@ -40,7 +40,7 @@
 ### 🧩 Coding Platforms
 
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-05AA4D?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/debasispanda13)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/debasispanda13)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/captain45/)
 
 ---
 
